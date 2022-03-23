@@ -4,11 +4,9 @@
   "description": "primer proyecto sass",
   "main": "index.js",
   "scripts": {
-    "test": "yo que se"
+    "test": "yo que se",
+    "sass:watch": "sass --watch styles.scss  styles.css"
   },
   "author": "Elisa Martin",
-  "license": "ISC",
-  "devDependencies": {
-    "sass": "^1.49.9"
-  }
+  "license": "ISC"
 }

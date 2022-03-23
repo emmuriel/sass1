@@ -1,0 +1,16 @@
+@import "variables";  /**/
+$fondo: #aaa000;
+$cabecera:#ff0000;
+$parrafo: #aa40c5;
+
+body{
+    background-color: $fondo;
+    h1 {
+        background-color: $cabecera;
+        color:$fondo;
+
+    }
+    p{
+        color:$parrafo;
+    }
+}
