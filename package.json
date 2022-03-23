@@ -1,0 +1,14 @@
+{
+  "name": "sass1",
+  "version": "1.0.0",
+  "description": "primer proyecto sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "yo que se"
+  },
+  "author": "Elisa Martin",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
