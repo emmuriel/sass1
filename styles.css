@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/*Este fichero es parcial y se añade a otro-- viene a ser como un include*/
+/**/
+body {
+  background-color: #aaa000;
+}
+body h1 {
+  background-color: #ff0000;
+  color: #aaa000;
+}
+body p {
+  color: #aa40c5;
+}
+
+/*# sourceMappingURL=styles.css.map */
